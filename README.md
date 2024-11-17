@@ -1,6 +1,6 @@
-aaaa# Custom System Builder - Configuração de Ficha e Background no Foundry VTT
+# Assimilação no Custom System Builder - Configuração de Ficha e Background no Foundry VTT
 
-Este guia explica como configurar uma ficha template no **Custom System Builder** no Foundry VTT e como personalizar o fundo da ficha usando CSS.
+Este guia explica como configurar uma ficha template de assimilação no **Custom System Builder** no Foundry VTT e como personalizar o fundo da ficha usando CSS.
 
 ---
 
@@ -14,6 +14,10 @@ Este guia explica como configurar uma ficha template no **Custom System Builder*
 6. Clique em **Salvar** para concluir.
 
 Sua ficha template estará pronta para ser usada como base para novos personagens/atores.
+
+## 🎥 Tutorial
+
+[![Clique para assistir](https://via.placeholder.com/400x200.png?text=Video+Preview)](https://streamable.com/04oypn)
 
 ---
 
@@ -31,7 +35,7 @@ Se você deseja personalizar o visual da ficha com um fundo estilizado, siga os 
        background-repeat: no-repeat;	
        background-size: cover;
    }
-## 🎥 Vídeo Tutorial
+## 🎥 Tutorial
 
 Veja como configurar o background na ficha:
 
