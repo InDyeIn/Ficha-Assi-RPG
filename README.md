@@ -31,6 +31,8 @@ Se você deseja personalizar o visual da ficha com um fundo estilizado, siga os 
        background-repeat: no-repeat;	
        background-size: cover;
    }
-<video src="https://streamable.com/em49y)" controls="controls" style="max-width: 100%; height: auto;">
-    Seu navegador não suporta vídeos HTML5.
-</video>
+## 🎥 Vídeo Tutorial
+
+Veja como configurar o background na ficha:
+
+[![Clique para assistir](https://via.placeholder.com/400x200.png?text=Video+Preview)](https://streamable.com/em49ya)
