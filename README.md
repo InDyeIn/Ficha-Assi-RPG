@@ -22,8 +22,8 @@ Este guia explica como configurar uma ficha template de assimilação no **Custo
 
 ## 🎨 Adicionando Backgrounds à Ficha com CSS
 
-Um andendo antes, para isso é necessarios usar um modulo extra : **Custom CSS** E
-Se você deseja personalizar o visual da ficha com um fundo estilizado, siga os passos abaixo:
+Um andendo antes, para isso é necessarios usar um modulo extra : **Custom CSS** 
+E se você deseja personalizar o visual da ficha com um fundo estilizado, siga os passos abaixo:
 
 1. Acesse as **Configurações do Sistema** no Foundry VTT.
 2. Localize a aba ou opção de **CSS Personalizado**.
