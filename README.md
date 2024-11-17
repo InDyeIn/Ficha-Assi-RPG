@@ -6,14 +6,13 @@ Este guia explica como configurar uma ficha template de assimilação no **Custo
 
 ## 📝 Adicionando uma Ficha Template no Custom System Builder
 
-1. **Acesse o Foundry VTT** e entre no sistema que está utilizando o Custom System Builder.
-2. Clique no ícone de engrenagem no canto inferior esquerdo para abrir as **Configurações do Sistema**.
-3. Navegue até a opção **Gerenciar Fichas**.
-4. Na aba **Templates**, clique em **Adicionar novo Template**.
-5. Dê um nome para sua ficha e configure os campos conforme necessário.
-6. Clique em **Salvar** para concluir.
+1. **Acesse o Foundry VTT** e entre no mundo que está utilizando o sistema Custom System Builder.
+2. Clique no ícone de engrenagem no canto inferior esquerdo para a aba de **Game Settings**.
+3. Vá até a opção **Import templates JSON**.
+4. Na aba **File Browser**, clique em **Escolher Arquivo**.
+5. Selecione a **Ficha Assimilação** e **Select File**.
+6. Depois só criar um **Actor** e selecionar na opção de **Template** a Ficha de assimilação e cliclar no botão ao lado **Reload Template**.
 
-Sua ficha template estará pronta para ser usada como base para novos personagens/atores.
 
 ## 🎥 Tutorial
 
@@ -23,6 +22,7 @@ Sua ficha template estará pronta para ser usada como base para novos personagen
 
 ## 🎨 Adicionando Backgrounds à Ficha com CSS
 
+Um andendo antes, para isso é necessarios usar um modulo extra : **Custom CSS** E
 Se você deseja personalizar o visual da ficha com um fundo estilizado, siga os passos abaixo:
 
 1. Acesse as **Configurações do Sistema** no Foundry VTT.
@@ -40,3 +40,4 @@ Se você deseja personalizar o visual da ficha com um fundo estilizado, siga os 
 Veja como configurar o background na ficha:
 
 [![Clique para assistir](https://via.placeholder.com/400x200.png?text=Video+Preview)](https://streamable.com/em49ya)
+
