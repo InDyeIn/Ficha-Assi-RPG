@@ -2,6 +2,8 @@
 
 Este guia explica como configurar uma ficha template de assimilação no **Custom System Builder** no Foundry VTT e como personalizar o fundo da ficha usando Custom CSS.
 
+   **Quero deixar avisado que o sistema de dados de Assimilação ainda não foi implementado, foi só a ficha, mas usando o fast play e a explicação de testes e face de dados da pra jogar muito bem ainda**
+
 ---
 
 ## 📝 Adicionando uma Ficha Template no Custom System Builder
