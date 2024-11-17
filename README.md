@@ -1,4 +1,4 @@
-# Custom System Builder - Configuração de Ficha e Background no Foundry VTT
+aaaa# Custom System Builder - Configuração de Ficha e Background no Foundry VTT
 
 Este guia explica como configurar uma ficha template no **Custom System Builder** no Foundry VTT e como personalizar o fundo da ficha usando CSS.
 
@@ -31,4 +31,6 @@ Se você deseja personalizar o visual da ficha com um fundo estilizado, siga os 
        background-repeat: no-repeat;	
        background-size: cover;
    }
-<div style="position:relative; width:100%; height:0px; padding-bottom:51.446%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/em49ya?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+<video src="https://streamable.com/em49y)" controls="controls" style="max-width: 100%; height: auto;">
+    Seu navegador não suporta vídeos HTML5.
+</video>
